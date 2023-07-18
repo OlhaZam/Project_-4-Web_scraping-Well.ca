@@ -10,6 +10,9 @@ By examining the prevalence of different discount ranges, we can understand whic
 This information can be valuable for both the store and customers in making informed purchasing decisions and understanding market 
 trends in the health and beauty industry.
 
+<img width="1152" alt="Project_Preview" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/bb6cf763-a117-45ad-a29a-8daf549726e4">
+
+
 #### Data analysis workflow:
 
 
@@ -34,9 +37,14 @@ Performing necessary transformations on the data, such as feature engineering, n
 Applying various analytical techniques and calculations to derive insights for data visualizations. 
 Calculate the discount percentage for the every item and sorting them from the highest discount to the lowest.
 
+<img width="1152" alt="Project_dataframe" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/ea2474db-8790-4645-b19b-6c73a1ac90ef">
+
 
 ##### Interpretation and Visualization
 Interpreting the analysis results and presenting them in a meaningful way using visualizations by histogram chart and donut plot. This step helps to effectively communicate the findings and make data-driven decisions.
 
 ##### Conclusion
 Summarizing the analysis findings, drawing conclusions, and providing gained insights. 
+
+<img width="1152" alt="Progect_chart" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/ab8e0269-79a7-4287-ad0f-d08d65ab329a">
+
