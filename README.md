@@ -37,6 +37,8 @@ Performing necessary transformations on the data, such as feature engineering, n
 Applying various analytical techniques and calculations to derive insights for data visualizations. 
 Calculate the discount percentage for the every item and sorting them from the highest discount to the lowest.
 
+<img width="1152" alt="Project_dataframe" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/ea2474db-8790-4645-b19b-6c73a1ac90ef">
+
 
 ##### Interpretation and Visualization
 Interpreting the analysis results and presenting them in a meaningful way using visualizations by histogram chart and donut plot. This step helps to effectively communicate the findings and make data-driven decisions.
