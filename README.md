@@ -1,6 +1,6 @@
 # Project #4 
 
-### Web_scraping of sales and offers from Well.ca (an online health and beauty store).
+### Web scraping of sales and offers from Well.ca (an online health and beauty store).
 
 The dataset was created using web mining techniques, which involved scraping the Well.ca website to gather information about the products in 
 the sale category. The dataset includes the product name, original price, and new price for each item.
