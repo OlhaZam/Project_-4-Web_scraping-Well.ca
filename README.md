@@ -43,3 +43,6 @@ Interpreting the analysis results and presenting them in a meaningful way using 
 
 ##### Conclusion
 Summarizing the analysis findings, drawing conclusions, and providing gained insights. 
+
+<img width="1152" alt="Progect_chart" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/ab8e0269-79a7-4287-ad0f-d08d65ab329a">
+
