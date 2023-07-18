@@ -10,6 +10,9 @@ By examining the prevalence of different discount ranges, we can understand whic
 This information can be valuable for both the store and customers in making informed purchasing decisions and understanding market 
 trends in the health and beauty industry.
 
+<img width="1152" alt="Project_Preview" src="https://github.com/OlhaZam/Project_-4-Web_scraping-Well.ca/assets/137802329/bb6cf763-a117-45ad-a29a-8daf549726e4">
+
+
 #### Data analysis workflow:
 
 
